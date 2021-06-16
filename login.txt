@@ -1,2 +1,11 @@
 username chintu
+passwd chintu
+hello
+hi
+bye
+bye
+
+
+ok 
+see u
 
